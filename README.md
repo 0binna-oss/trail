@@ -1,7 +1,10 @@
-Trail: NFT Metadata Explorer 
+
+TRAIL
+
 Trail is a Python-based tool designed to explore and uncover the metadata of NFTs (Non-Fungible Tokens) on the Ethereum blockchain. Whether you're a developer, collector, or enthusiast, Trail makes it easy to fetch and display NFT metadata, including names, descriptions, images, and attributes.
 
-Features 
+FEATURES
+
 Fetch NFT Metadata: Retrieve metadata (name, description, image, attributes) for any NFT using its contract address and token ID.
 
 Display NFT Images: Fetch and display the image associated with an NFT.
@@ -12,7 +15,8 @@ Modular Design: Easy-to-extend codebase with separate modules for blockchain int
 
 Command-Line Interface (CLI): Simple and intuitive CLI for interacting with the tool.
 
-Tech Stack 
+TECH STACK
+
 Python: Core programming language.
 
 Web3.py: For interacting with the Ethereum blockchain.
